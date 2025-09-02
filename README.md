@@ -5,7 +5,7 @@ This repository showcases a first-person shooter (FPS) target practice game deve
 
 Project Overview
 📷 Screenshot
-![FPSTargetGame](Thumbnail.png)
+![FPSTargetGame](Thumbnail)
 
 ## 🎥 Demo Video
 [Watch the demo on Google Drive](https://drive.google.com/file/d/1x7QWrdwSDPHdde2MZk-avG1aEJ4PTzGJ/view?usp=sharing)
