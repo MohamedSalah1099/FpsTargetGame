@@ -4,6 +4,11 @@ This repository showcases a first-person shooter (FPS) target practice game deve
 , which provides a beginner-friendly approach to creating FPS mechanics in UE5.
 
 Project Overview
+📷 Screenshot
+![FPSTargetGame](FpsTargetGame/Thumbnail.png)
+
+## 🎥 Demo Video
+[Watch the demo on Google Drive](https://drive.google.com/file/d/1x7QWrdwSDPHdde2MZk-avG1aEJ4PTzGJ/view?usp=sharing)
 
 The demo features:
 
